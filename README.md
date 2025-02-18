@@ -1,6 +1,7 @@
 # python
 
-Variables:
+Variables:  
+1.Strings  
 f-> it is a format specifier and can be used to display the variable.   
-asdfsf   
-asdf
+Eg: name="bro"  
+    print(f"Hello {name}")  
